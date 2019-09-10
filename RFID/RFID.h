@@ -6,7 +6,7 @@
 //char* pass = "";
 //char* server = "";
 
-char* topic_publish = "servidor/publicaciones";
-char* topic_subscribe = "servidor/notificaciones";
+char* topic_estado = "planta/circulo/rfid/autorizacion";
+char* topic_rfid = "planta/circulo/rfid/id";
 
 char identificador[16];
